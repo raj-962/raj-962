@@ -15,7 +15,6 @@ Projects and Learning: I am constantly working on projects that enhance my skill
 
 I am currently honing my skills in Python and C, with a particular interest in their applications in electronics and communication. I am also exploring other technologies and frameworks that can complement my primary skills and broaden my expertise.
 
-**Let's Connect
-**
+**Let's Connect**
 I am always open to collaboration, learning, and sharing knowledge. Feel free to explore my repositories, contribute, or reach out to discuss anything tech-related. Let's build something amazing together!
 
