@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm a 1st-year engineering student in the **Electronics and Communication Engineering (ECE)** branch at the **University College of Engineering Bangalore (UVCE)**. My academic journey began at Kendriya Vidyalaya Ballari, where I completed my 10th grade. I have a strong passion for coding and technology, and I am proficient in Python and C.
+I'm a 2nd-year engineering student in the **Electronics and Communication Engineering (ECE)** branch at the **University College of Engineering Bangalore (UVCE)**. My academic journey began at Kendriya Vidyalaya Ballari, where I completed my 10th grade. I have a strong passion for coding and technology, and I am proficient in Python and C.
 
 **Skills and Interests**
 
@@ -13,7 +13,7 @@ Projects and Learning: I am constantly working on projects that enhance my skill
 
 **Current Focus**
 
-I am currently honing my skills in Python and C, with a particular interest in their applications in electronics and communication. I am also exploring other technologies and frameworks that can complement my primary skills and broaden my expertise.
+I am currently honing my skills in Python and C and verilog, with a particular interest in their applications in electronics and communication. I am also exploring other technologies and frameworks that can complement my primary skills and broaden my expertise.
 
 **Let's Connect**
 I am always open to collaboration, learning, and sharing knowledge. Feel free to explore my repositories, contribute, or reach out to discuss anything tech-related. Let's build something amazing together!
