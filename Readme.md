@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm a 2nd-year engineering student in the **Electronics and Communication Engineering (ECE)** branch at the **University College of Engineering Bangalore (UVCE)**. My academic journey began at Kendriya Vidyalaya Ballari, where I completed my 10th grade. I have a strong passion for coding and technology, and I am proficient in Python and C.
+I'm a 2nd-year engineering student in the **Electronics and Communication Engineering (ECE)** branch at the **University College of Engineering Bangalore (UVCE)**. My academic journey began at Kendriya Vidyalaya Ballari, where I completed my 10th grade. I have a strong passion for coding and technology, and I am proficient in Verilog Python and C.
 
 **Skills and Interests**
 
